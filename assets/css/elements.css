@@ -844,13 +844,25 @@ blockquote footer cite {
 }
 
 .swin-sc-product.products-01 .products .item .title {
-    font-size: 20px;
+    font-size: 18px;
     line-height: 24px;
     display: block;
     text-transform: uppercase;
     color: #ff7b00;
     margin-bottom: 5px;
 }
+
+/* -------------- for titles with no dots ---------- */
+.swin-sc-product.products-01 .products .item .titlecham {
+    font-size: 18px;
+    line-height: 18px;
+    display: block;
+    text-transform: uppercase;
+    color: #ff7b00;
+    margin-bottom: 5px;
+}
+/* -------------- for titles with no dots ---------- */
+
 
 .swin-sc-product.products-01 .products .item .price-symbol {
     vertical-align: super;
@@ -917,6 +929,19 @@ blockquote footer cite {
     bottom: 6px;
     left: 102%;
 }
+
+/* ---------- no dots after product title ------------ */
+
+.swin-sc-product.products-01.style-02 .products .item-left .titlecham:before {
+
+    position: absolute;
+    width: 1000px;
+    border-bottom: 1px dotted #616f7d;
+    bottom: 6px;
+    left: 102%;
+}
+
+/* ---------- no dots after product title ------------ */
 
 .swin-sc-product.products-01.style-02 .products .item-left .des {
     color: #616f7d;
@@ -986,7 +1011,7 @@ blockquote footer cite {
     font-weight: 300;
     font-style: italic;
     color: #616f7d;
-    margin-left: 85px;
+    margin-left: 24px;
     text-transform: capitalize;
 }
 
@@ -1707,12 +1732,26 @@ ul.nav.nav-tabs > li.active a {
     font-family: raleway, sans-serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 35px;
+    font-size: 25px;
     text-transform: uppercase;
     color: #29272e;
     margin: 0;
 
 }
+
+/* -------------- for titles with no dots afterwards ------------ */
+.titlecham {
+    font-family: raleway, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #29272e;
+    margin: 0;
+
+}
+/* -------------- for titles with no dots afterwards ------------ */
+
 
 .title.white-color {
     color: #ffffff;
