@@ -33,7 +33,7 @@ section {
 }
 
 .testimonial-section-01 {
-    background-image: url("../images/background/bg4.jpg");
+    background-image: url("../images/background/mambo-testimonials.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -326,6 +326,9 @@ section {
 }
 .page-title.page-menu-dinner {
     background-image: url("../images/background/mambo-dinner.jpg");
+}
+.page-title.page-menu-bar {
+    background-image: url("../images/background/mambo-bar.jpg");
 }
 
 /* Reservation */

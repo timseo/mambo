@@ -1733,7 +1733,6 @@ ul.nav.nav-tabs > li.active a {
     font-weight: 300;
     font-style: normal;
     font-size: 25px;
-    text-transform: uppercase;
     color: #2a348c;
     margin: 0;
 
@@ -1782,7 +1781,7 @@ ul.nav.nav-tabs > li.active a {
     line-height: 1;
 }
 
-.swin-sc-title .top-title:before, .swin-sc-title .top-title:after {
+/* .swin-sc-title .top-title:before, .swin-sc-title .top-title:after {
     content: '';
     position: absolute;
     width: 3px;
@@ -1791,7 +1790,7 @@ ul.nav.nav-tabs > li.active a {
     background-color: #ff7b00;
     top: 50%;
     margin-top: -1px;
-}
+} */
 
 .swin-sc-title .top-title:before {
     left: -65px;
