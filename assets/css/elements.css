@@ -1735,6 +1735,7 @@ ul.nav.nav-tabs > li.active a {
     font-size: 25px;
     color: #2a348c;
     margin: 0;
+    text-transform: uppercase;
 
 }
 
@@ -1857,7 +1858,7 @@ ul.nav.nav-tabs > li.active a {
 }
 
 .swin-sc-title.style-2 .title:before, .swin-sc-title.style-2 .title:after {
-    content: '';
+    /* content: ''; */
     position: absolute;
     width: 5px;
     height: 5px;
