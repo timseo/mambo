@@ -71,12 +71,14 @@ class PHPMailer
      * @var string
      */
     public $From = 'root@localhost';
+    // public $From = 'mamboreserve@gmail.com';
 
     /**
      * The From name of the message.
      * @var string
      */
     public $FromName = 'Root User';
+    // public $FromName = 'Mambo Reservations';
 
     /**
      * The Sender email (Return-Path) of the message.
