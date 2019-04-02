@@ -3,14 +3,13 @@ jQuery(function($) {
     var fooday = window.fooday || {};
     fooday.map = function(){
     	var locations = [
-	      ['New York', 40.712784, -74.005941, 1],
-	      ['Coogee Beach', 40.735657, -74.172367, 2],
+	      ['Mambo', 33.9019799, -84.4574615 , 1]
 	    ];
 
 	    if($("#map").length > 0){
 	    	var map = new google.maps.Map(document.getElementById('map'), {
-		      zoom: 10,
-		      center: new google.maps.LatLng(40.712784, -74.005941),
+		      zoom: 15,
+		      center: new google.maps.LatLng(33.9019799, -84.4574615),
 		      mapTypeId: google.maps.MapTypeId.ROADMAP,
 		      styles:[
 					    {

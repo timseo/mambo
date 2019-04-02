@@ -61,10 +61,10 @@ $mail->IsHTML(true);
             <div class="container">
               <div class="topbar-left">
                 <div class="topbar-content">
-                  <div class="item"> 
+                  <div class="item">
                     <div class="wg-contact"><i class="fa fa-map-marker"></i><span>157 White Oak Drive Kansas City</span></div>
                   </div>
-                  <div class="item"> 
+                  <div class="item">
                     <div class="wg-contact"><i class="fa fa-phone"></i><span>012 987 650</span></div>
                   </div>
                 </div>
@@ -120,7 +120,7 @@ $mail->IsHTML(true);
                     <li><a href="about.html">About</a></li>
                     <li><a href="reservation.html">Reservation</a></li>
                     <li class="dropdown"><a href="menu-grid-1.html" class="dropdown-toggle">
-                         
+
                         Menu</a><i class="fa fa-angle-down btn-open-dropdown"></i>
                       <ul class="dropdown-menu">
                         <li><a href="menu-classic.html">Menu Classic</a></li>
@@ -189,14 +189,14 @@ $mail->IsHTML(true);
 	                        </div>
 	                        <div class="form-group">
 	                          <div class="swin-btn-wrap"><button type="submit" class="swin-btn center form-submit"><span>Send</span></button></div>
-	                          <?php 
+	                          <?php
   		                    	if ($_SERVER['REQUEST_METHOD'] == 'POST') {
               								// Set your information here
-              								$title 			= 'Mail From Website';
+              								$title 			= 'Mail From Website Contact form';
               								$mail_from 		= $_POST['email'];
               								$mail_replay 	= $_POST['email'];
-              								$mail_to    	= 'yourmail.com';
-              								$subject 		= 'PHPMailer sendmail test';
+              								$mail_to    	= 'mamboreserve@gmail.com';
+              								$subject 		= 'from: Contact Form';
               								$username 		= $_POST['username'];
               								$phone 			= $_POST['phone'];
               								$message 		= $_POST['message'];
@@ -222,7 +222,7 @@ $mail->IsHTML(true);
             								}?>
 	                        </div>
 	                      </form>
-                      	
+
                     </div>
                   </div>
                 </div>
@@ -566,7 +566,7 @@ $mail->IsHTML(true);
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
       ga('create', 'UA-102426561-1', 'auto');
       ga('send', 'pageview');
-      
+
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdXpLSJ3Ibdu-Phs9QOvpqb9d1DtPf7wQ"></script>
     <script src="assets/js/map.js"></script>
