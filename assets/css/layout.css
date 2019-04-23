@@ -1313,6 +1313,7 @@ header.header-fixed #st-trigger-effects .st-btn-efect {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    height: 650px;
 }
 
 .page-title:before {
@@ -1326,7 +1327,7 @@ header.header-fixed #st-trigger-effects .st-btn-efect {
 }
 
 .page-title .title-wrapper {
-    padding: 140px 0;
+    padding: 250px 0;
     text-align: center;
     position: relative;
 }

@@ -33,7 +33,7 @@ section {
 }
 
 .testimonial-section-01 {
-    background-image: url("../images/background/mambo-testimonials.jpg");
+    background-image: url("../images/pages/mambo-outside-2.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -348,7 +348,7 @@ section {
 
 /* Product */
 .page-title.page-product {
-    background-image: url("../images/background/pagetitle-product.jpg");
+    background-image: url("../images/background/mambo.jpg");
 }
 
 h3.title-demo {
