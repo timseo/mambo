@@ -33,7 +33,7 @@ section {
 }
 
 .testimonial-section-01 {
-    background-image: url("../images/pages/mambo-outside-2.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.83), rgba(45, 45, 45, 0.36)),url("../images/pages/mambo-outside-2.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
