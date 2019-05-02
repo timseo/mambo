@@ -11,7 +11,16 @@ $mail = new PHPMailer;
 // Set PHPMailer to use the sendmail transport
 $mail->isSendmail();
 $mail->IsHTML(true);
+// Subject of confirmation email.
+$conf_subject = '** Mambo Reservations **';
 
+// Who should the confirmation email be from?
+$conf_sender = 'Mambo Italian Street Food <mambostreet@gmail.com>';
+
+$msg = $_POST['Name'] . ",\n\nThank you for your reservation request. A member of our
+team will respond to your message as soon as possible to confirm. If you do not hear from us please give us a call. (770) 485-4026";
+
+mail( $_POST['email'], $conf_subject, $msg, 'From: ' . $conf_sender );
 
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     // Set your information here
