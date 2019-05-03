@@ -3459,6 +3459,7 @@ footer {
     border: 1px solid #fff;
     padding: 10px 25px 25px;
     position: relative;
+    height: 370px;
 }
 
 .ft-fixed-area .reservation-wrap:before, .ft-fixed-area .reservation-wrap:after {
@@ -3516,13 +3517,13 @@ footer {
     width: 40%;
     float: right;
     padding-left: 5px;
-    color: #1d1b20;
+    color: #fff;
 }
 
 .ft-fixed-area .reservation-wrap .res-number {
     font-size: 30px;
     font-weight: 700;
-    color: #1d1b20;
+    color: #fff;
     text-align: center;
 }
 
