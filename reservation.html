@@ -105,11 +105,11 @@
                         <div class="form-group">
                           <div class="input-group">
                             <div class="input-group-addon"><i class="fa fa-user"></i></div>
-                            <input type="text" placeholder="Name" class="form-control" name="username">
+                            <input type="text" placeholder="Name" class="form-control" required="true" name="username">
                           </div>
                           <div class="input-group">
                             <div class="input-group-addon"><i class="fa fa-envelope"></i></div>
-                            <input type="text" placeholder="Email" class="form-control" name="email" required>
+                            <input type="email" placeholder="Email" class="form-control  name="email" required>
                           </div>
                         </div>
                         <div class="form-group">
@@ -117,7 +117,7 @@
                             <div class="input-group-addon">
                               <div class="fa fa-phone"></div>
                             </div>
-                            <input type="text" placeholder="Phone" class="form-control" name="phone" required>
+                            <input type="text" placeholder="Phone" class="form-control" required="true" name="phone" required>
                           </div>
                           <div class="input-group">
                             <div class="input-group-addon"><i class="fa fa-male"></i></div>
@@ -138,7 +138,7 @@
                         <div class="form-group">
                           <div class="input-group">
                             <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
-                            <input type="text" placeholder="Date" class="form-control datepicker" name="date">
+                            <input type="text" placeholder="Date" class="form-control datepicker" name="date" required="true">
                           </div>
                           <div class="input-group">
                             <div class="input-group-addon">
@@ -200,7 +200,7 @@
                           <textarea class="form-control" name="message"></textarea>
                         </div>
                         <div class="form-group">
-                          <div class="swin-btn-wrap center"><a href="#" onclick="document.getElementById('iForm').submit()" class="swin-btn center form-submit"> <span>Book Table</span></a></div>
+                          <div class="swin-btn-wrap center"><a href="#" onclick="goForm()" class="swin-btn center form-submit"> <span>Book Table</span></a></div>
                         </div>
                       </form>
                     </div>
@@ -512,5 +512,26 @@
     <script src="assets/js/layout.js"></script>
     <script src="assets/js/elements.js"></script>
     <script src="assets/js/widget.js"></script>
+    <script src="http://malsup.github.com/jquery.form.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    function goForm(){
+    $('#iForm').ajaxSubmit({ 
+              beforeSend:function() { 
+
+                $(".alert-me").remove();
+                $(".swin-btn-wrap.center").append("<div class='alert alert-info alert-me'>Loading....</div>");
+              },
+              success:function(msg)
+              {
+                $(".alert-me").removeClass("alert-danger").removeClass("alert-info").addClass("alert-success").html(msg)
+              },
+              error:function(msg)
+              {
+                $(".alert-me").removeClass("alert-success").removeClass("alert-info").addClass("alert-danger").html("Try Again!")
+              }
+          }
+  })
+</script> 
   </body>
 </html>
