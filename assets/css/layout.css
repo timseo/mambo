@@ -1155,7 +1155,9 @@ header.header-fixed #st-trigger-effects .st-btn-efect {
     display: block;
     width: 60%;
     margin: 0 auto;
-    line-height: 1;
+    line-height: 2;
+    background: #ff7b00;
+    border-radius: 100px;
 }
 
 .top-header .slide-content.slide-layout-02 .slide-sub-title .text span {
