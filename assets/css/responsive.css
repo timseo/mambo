@@ -582,7 +582,7 @@ This file include css code conrespond for table and mobile device
     }
 
     .top-header .slide-content.slide-layout-02 .slide-sub-title .text {
-        width: 80%;
+        width: 48%;
     }
 
     .top-header .slide-content.slide-layout-02 .line-before,
@@ -671,7 +671,7 @@ This file include css code conrespond for table and mobile device
     }
 
     .top-header .slide-content.slide-layout-02 .slide-sub-title .text {
-        width: 100%;
+        width: 65%;
         font-size: 24px;
         margin-top: 8px;
     }
