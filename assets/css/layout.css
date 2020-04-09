@@ -549,7 +549,7 @@ header.header-fixed .header-top {
 
 #main-nav > li {
     display: block;
-    padding: 0 15px;
+    padding: 0 2px;
 }
 
 #main-nav > li > a {
@@ -1146,7 +1146,7 @@ header.header-fixed #st-trigger-effects .st-btn-efect {
 
 .top-header .slide-content.slide-layout-02 .slide-sub-title {
     font-family: "Rancho", sans-serif;
-    font-size: 40px;
+    font-size: 28px;
     color: #fff;
     text-align: center;
     position: relative;
@@ -1154,11 +1154,12 @@ header.header-fixed #st-trigger-effects .st-btn-efect {
 
 .top-header .slide-content.slide-layout-02 .slide-sub-title .text {
     display: block;
-    width: 30%;
+    width: 20%;
     margin: 0 auto;
     line-height: 2;
     background: #ff7b00;
     border-radius: 100px;
+    margin-bottom: 14px;
 }
 
 a.slider-link:hover {

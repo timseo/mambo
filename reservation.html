@@ -58,17 +58,18 @@
                         <li class="current-menu-item"><a href="lunch-menu.html">LUNCH</a></li>
                         <li><a href="dinner-menu.html">DINNER</a></li>
                         <li><a href="assets/images/mambo-brunch.pdf">BRUNCH</a></li>
+                        <li><a href="mambo-bar.html">Bar</a></li>
                         <li><a href="assets/images/mambo-happyhour.pdf">HAPPY HOUR</a></li>
                         <li><a href="beverages.html">BEVERAGES</a></li>
                         <li><a href="assets/images/mambo-catering.pdf">CATERING</a></li>
                         <li><a href="assets/images/mambo-togo.pdf">TOGO</a></li>
                       </ul>
                     </li>
-                    <li><a href="mambo-bar.html">Bar</a></li>
-                    <li><a href="contact.html">Contact</a></li>
                     <li><a href="https://www.ezcater.com/catering/pvt/mambo-italian-street-food-3?fcv=1">Catering</a></li>
                     <li><a href="events.html">Events</a></li>
                     <li><a href="https://mamboitalianstreet.smartonlineorder.com">Online Ordering</a></li>
+                    <li><a href="gift-card.html">Gift Cards</a></li>
+                    <li><a href="contact.html">Contact</a></li>
                   </ul>
                 </div>
               </nav>
@@ -512,7 +513,7 @@
     <script src="assets/js/layout.js"></script>
     <script src="assets/js/elements.js"></script>
     <script src="assets/js/widget.js"></script>
-    
+
     <script src="https://malsup.github.com/jquery.form.js"></script>
     <style type="text/css">
       .alert-me{
@@ -525,14 +526,14 @@
       }
     </style>
 <script type="text/javascript">
-   
-  
-    $('#iForm').ajaxForm({ 
-              beforeSend:function() { 
+
+
+    $('#iForm').ajaxForm({
+              beforeSend:function() {
 
                 $(".alert-me").remove();
                 $(".swin-btn-wrap").append("<div class='alert alert-info alert-me'>Loading....</div>");
-                
+
               },
               success:function(msg)
               {
@@ -543,8 +544,8 @@
                 $(".alert-me").removeClass("alert-success").removeClass("alert-info").addClass("alert-danger").html("Try Again!")
               }
           });
-       
- 
-</script> 
+
+
+</script>
   </body>
 </html>
