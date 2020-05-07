@@ -1136,12 +1136,12 @@ header.header-fixed #st-trigger-effects .st-btn-efect {
 }
 
 .top-header .slide-content.slide-layout-02 .slide-title {
-    font-family: "Merriweather Sans", sans-serif;
+    font-family: "raleway", sans-serif;
     font-weight: 900;
-    font-size: 90px;
+    font-size: 52px;
     color: #fff;
     text-align: center;
-    margin-bottom: 0;
+    margin-bottom: 75px;
 }
 
 .top-header .slide-content.slide-layout-02 .slide-sub-title {
