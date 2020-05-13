@@ -63,6 +63,12 @@ This file include css code conrespond for table and mobile device
 
 /* #Desktop, Tablet Landscape */
 @media screen and (max-width: 1024px) {
+  .top-header .slide-content .slide-icon {
+    display: none;
+  }
+  .top-header .slide-content.slide-layout-02 .slide-content-inner {
+    margin-top: 80px;
+  }
     .st-fullpage .section {
         padding: 100px 0;
     }
@@ -323,7 +329,7 @@ This file include css code conrespond for table and mobile device
     }
 
     .top-header .slide-content.slide-layout-02 .slide-sub-title {
-        font-size: 42px;
+        font-size: 23px;
     }
 
     .ft-fixed-area .reservation-wrap {

@@ -985,7 +985,7 @@ header.header-fixed #st-trigger-effects .st-btn-efect {
 
 .top-header .slide-content .slide-icon {
     margin: 15px auto;
-    max-width: 300px;
+    max-width: 260px;
 }
 
 .top-header .slide-content .swin-sc-title {
@@ -1138,10 +1138,10 @@ header.header-fixed #st-trigger-effects .st-btn-efect {
 .top-header .slide-content.slide-layout-02 .slide-title {
     font-family: "raleway", sans-serif;
     font-weight: 900;
-    font-size: 52px;
+    font-size: 38px;
     color: #fff;
     text-align: center;
-    margin-bottom: 75px;
+    margin-bottom: 38px;
 }
 
 .top-header .slide-content.slide-layout-02 .slide-sub-title {
@@ -1153,7 +1153,7 @@ header.header-fixed #st-trigger-effects .st-btn-efect {
 }
 
 .top-header .slide-content.slide-layout-02 .slide-sub-title .text {
-    display: block;
+    display: inline-block;
     width: 20%;
     margin: 0 auto;
     line-height: 2;
@@ -1193,6 +1193,7 @@ a.slider-link:hover {
 .top-header .slide-content.slide-layout-02 .slide-content-inner {
     width: 90%;
     margin: 0 auto;
+    margin-top: 150px;
 }
 
 .top-header .slide-content.slide-layout-02 .line-before {
