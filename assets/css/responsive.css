@@ -1210,3 +1210,7 @@ This file include css code conrespond for table and mobile device
         font-size: 10px;
     }
 }
+.cc-center {
+display: flex;
+justify-content: center;
+}
