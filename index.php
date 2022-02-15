@@ -128,9 +128,9 @@
                 </div>
 
                 <div class="col-md-4 col-sm-12">
-                  <a href="reservation.html">
+                  <!-- <a href="reservation.html">
                     <img src="assets/images/mambo-email-mothers-day-2021.jpg" alt="mambo mothers day 2021 brunch atlanta" class="img img-responsive wow zoomIn">
-                  </a>
+                  </a> -->
 
 
                 </div>
