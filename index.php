@@ -38,16 +38,17 @@
                   <!-- <img src="assets/images/slider/slider2-icon.png" data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="500" alt="mambo" class="slide-icon img img-responsive animated"> -->
 
 
-                  <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">Dining Room & Patio Open</h3>
+                  <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">Valentine's Day</h3>
                   <br />
                   <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1500" class="slide-sub-title animated">
+
 
                     <!-- <span class="text">
                         <span><a href="tel:7704854026" class="slider-link">Call</a></span>
                       </span> -->
 
                     <span class="text">
-                      <span><a href="https://mamboitalianstreet.smartonlineorder.com" class="slider-link">Order Online</a></span>
+                      <span><a href="/reservation.php" class="slider-link">RESERVE TODAY</a></span>
                     </span>
 
                     <!-- <span class="text">
@@ -74,6 +75,7 @@
                 <div class="swin-sc swin-sc-title">
                   <p class="top-title"><span>click to order</span></p>
                   <h3 class="title">Delivery Orders til 11pm</h3>
+                  <h3 class="title">Fri & Sat til Midnight</h3>
                 </div>
 
                 <div class="col-sm-2 col-xs-12">
@@ -127,12 +129,16 @@
 
                 </div>
 
+                <!-- <div class="col-md-4 col-sm-12">
+                  <a href="assets/images/blog/mambo-weekly-special-2019.pdf">
+                    <img src="assets/images/mambo-hp-weekly-specials.jpg" alt="mambo italian weekly specials atlanta" class="img img-responsive wow zoomIn">
+                  </a>
+                </div> -->
+
                 <div class="col-md-4 col-sm-12">
-                  <!-- <a href="reservation.html">
-                    <img src="assets/images/mambo-email-mothers-day-2021.jpg" alt="mambo mothers day 2021 brunch atlanta" class="img img-responsive wow zoomIn">
-                  </a> -->
-
-
+                  <a href="/reservation.php">
+                    <img src="assets/images/mambo-valentines-specials-2022-2.jpg" alt="mambo italian street valentines day reservations atlanta" class="img img-responsive wow zoomIn">
+                  </a>
                 </div>
 
                 <div class="col-md-4 col-sm-12">

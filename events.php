@@ -41,6 +41,54 @@
                   <div class="swin-sc swin-sc-blog-grid">
                     <div class="row">
 
+                    <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
+                          <div class="blog-featured-img"><img src="assets/images/mambo-events-valentines-2022.jpg" alt="mambo valentines day atlanta 2022 open" class="img img-responsive"></div>
+                          <div class="blog-content">
+                            <div class="blog-date"><span class="day">14th</span><span class="month">Feb</span></div>
+                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Valentines Day 2022</a></h3>
+                            <p class="blog-description">We're celebrating Valentines Day February 11 - 14 something fun every night! </p>
+                            <div class="blog-readmore"><a href="assets/images/mambo-valentines-specials-2022-1.jpg" class="swin-transition">Love Cocktails <i class="fa fa-angle-double-right"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
+                          <div class="blog-featured-img"><img src="assets/images/mambo-nye-2022.jpg" alt="mambo new years eve atlanta 2022 open" class="img img-responsive"></div>
+                          <div class="blog-content">
+                            <div class="blog-date"><span class="day">31st</span><span class="month">Dec</span></div>
+                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">New Years Eve 2022</a></h3>
+                            <p class="blog-description">Celebrate NYE 2022 Make plans to join us today! </p>
+                            <div class="blog-readmore"><a href="reservation.html" class="swin-transition">Reserve <i class="fa fa-angle-double-right"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
+                          <div class="blog-featured-img"><img src="assets/images/mambo-christmas-eve-2021.jpg" alt="mambo christmas eve atlanta 2021 open" class="img img-responsive"></div>
+                          <div class="blog-content">
+                            <div class="blog-date"><span class="day">24th</span><span class="month">Dec</span></div>
+                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Christmas Eve 2021</a></h3>
+                            <p class="blog-description">Reserve Christmas Eve dinneer with your Mambo family </p>
+                            <div class="blog-readmore"><a href="reservation.html" class="swin-transition">Reserve <i class="fa fa-angle-double-right"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+
+
+                      <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
+                          <div class="blog-featured-img"><img src="assets/images/mambo-events-thanksgiving-2021.jpg" alt="mambo thanksgiving atlanta 2021 open" class="img img-responsive"></div>
+                          <div class="blog-content">
+                            <div class="blog-date"><span class="day">25th</span><span class="month">Nov</span></div>
+                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Thanksgiving 2021</a></h3>
+                            <p class="blog-description">Open at noon! Come and watch football with us! </p>
+                            <div class="blog-readmore"><a href="reservation.html" class="swin-transition">Reserve <i class="fa fa-angle-double-right"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
 
                       <div class="col-md-4 col-sm-12 col-xs-12">
                         <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
