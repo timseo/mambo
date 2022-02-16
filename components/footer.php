@@ -24,8 +24,15 @@
                     <div class="ft-widget-area">
                         <div class="ft-area1">
                             <div class="swin-wget swin-wget-about">
-                                <div class="clearfix"><a class="wget-logo"><img src="assets/images/logo-ft.png" alt="mambo italian street food logo dark" class="img img-responsive img-footer"></a>
-
+                                <div class="clearfix">
+                                    <a class="wget-logo">
+                                        <img src="assets/images/logo-ft.png" alt="mambo italian street food logo dark" class="img img-responsive img-footer">
+                                    </a>
+                                </div>
+                                <div class="clearfix">
+                                    <a class="wget-logo">
+                                        <img src="assets/images/lch-logo-white.png" alt="mambo italian street food logo dark" class="img img-responsive img-footer cc-lch-logo">
+                                    </a>
                                 </div>
                                 <div class="wget-about-content">
                                     <!-- <p>Now Open</p> -->

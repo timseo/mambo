@@ -33,6 +33,8 @@
     <!-- custom fonts chameleon from typekit -->
     <link rel="stylesheet" href="https://use.typekit.net/jgn5ncx.css">
     <link rel="stylesheet" href="https://use.typekit.net/jgn5ncx.css">
+    <!-- custom style chameleon -->
+    <link rel="stylesheet" href="assets/css/cc-custom.css">
 
 
     <!-- Script Loading Page-->
