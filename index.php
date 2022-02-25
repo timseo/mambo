@@ -38,7 +38,8 @@
                   <!-- <img src="assets/images/slider/slider2-icon.png" data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="500" alt="mambo" class="slide-icon img img-responsive animated"> -->
 
 
-                  <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">Valentine's Day</h3>
+                  <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">Venetian Carnival</h3>
+                  <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-sub-title text animated">Live Music & Best Costume Prizes<br> Feb 25 - 27</br></p>
                   <br />
                   <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1500" class="slide-sub-title animated">
 
