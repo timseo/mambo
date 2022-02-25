@@ -41,7 +41,19 @@
                   <div class="swin-sc swin-sc-blog-grid">
                     <div class="row">
 
-                    <div class="col-md-4 col-sm-12 col-xs-12">
+                      <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
+                          <div class="blog-featured-img"><img src="assets/images/event/event-venetian-carnival.jpeg" alt="mambo venetian carnival" class="img img-responsive"></div>
+                          <div class="blog-content">
+                            <div class="blog-date"><span class="day">25th</span><span class="month">Feb</span></div>
+                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Venetian Carnival</a></h3>
+                            <p class="blog-description">Live Music & Best Costume Prizes!</p>
+                            <div class="blog-readmore"><a href="reservation.html" class="swin-transition">Reserve <i class="fa fa-angle-double-right"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="col-md-4 col-sm-12 col-xs-12">
                         <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
                           <div class="blog-featured-img"><img src="assets/images/mambo-events-valentines-2022.jpg" alt="mambo valentines day atlanta 2022 open" class="img img-responsive"></div>
                           <div class="blog-content">
@@ -53,7 +65,7 @@
                         </div>
                       </div>
 
-                    <div class="col-md-4 col-sm-12 col-xs-12">
+                      <div class="col-md-4 col-sm-12 col-xs-12">
                         <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
                           <div class="blog-featured-img"><img src="assets/images/mambo-nye-2022.jpg" alt="mambo new years eve atlanta 2022 open" class="img img-responsive"></div>
                           <div class="blog-content">
@@ -65,7 +77,7 @@
                         </div>
                       </div>
 
-                    <div class="col-md-4 col-sm-12 col-xs-12">
+                      <div class="col-md-4 col-sm-12 col-xs-12">
                         <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
                           <div class="blog-featured-img"><img src="assets/images/mambo-christmas-eve-2021.jpg" alt="mambo christmas eve atlanta 2021 open" class="img img-responsive"></div>
                           <div class="blog-content">
