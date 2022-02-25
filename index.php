@@ -27,7 +27,7 @@
 
       <div class="page-container">
         <div class="top-header top-bg-parallax">
-          <div data-parallax="scroll" data-image-src="assets/images/slider/mambo-slider.jpg" class="slides parallax-window">
+          <div data-parallax="scroll" data-image-src="assets/images/slider/mambo-slider-new.jpeg" class="slides parallax-window">
             <div class="slide-content slide-layout-02">
               <div class="container">
                 <div class="slide-content-inner">
