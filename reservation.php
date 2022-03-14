@@ -88,10 +88,10 @@
                             <option>11:15 AM</option>
                             <option>11:30 AM</option>
                             <option>11:45 AM</option>
-                            <option>12:00 AM</option>
+                            <!-- <option>12:00 AM</option>
                             <option>12:15 AM</option>
                             <option>12:30 AM</option>
-                            <option>12:45 AM</option>
+                            <option>12:45 AM</option> -->
                             <option>1:00 PM</option>
                             <option>1:15 PM</option>
                             <option>1:30 PM</option>
