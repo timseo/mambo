@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="http://schema.org/WebPage">
 
@@ -140,6 +144,12 @@
                       <div class="form-group">
                         <div class="swin-btn-wrap center"><button type="submit" class="swin-btn center form-submit"> <span>Book Table</span></button></div>
                       </div>
+                      <?php
+                      if (isset($_SESSION['form_contact_state'])) {
+                        echo '<p class="text-success message-succesfull-form">' . $_SESSION['form_contact_state'] . '</p>';
+                        unset($_SESSION['form_contact_state']);
+                      }
+                      ?>
                     </form>
                   </div>
                 </div>

@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="http://schema.org/WebPage">
 
@@ -74,6 +78,12 @@
                         </div>
                       </form>
                     </div>
+                    <?php
+                      if (isset($_SESSION['form_contact_state'])) {
+                        echo '<p class="text-success message-succesfull-form">'. $_SESSION['form_contact_state'] . '</p>';
+                        unset($_SESSION['form_contact_state']);
+                      }
+                    ?>
                   </div>
                 </div>
                 <div class="col-md-4">

@@ -3,6 +3,7 @@
  * This example shows sending a message using a local sendmail binary.
  */
 
+session_start();
 require 'phpmailer/PHPMailerAutoload.php';
 
 //Create a new PHPMailer instance
@@ -26,7 +27,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   $title 			= 'Contact Form';
   $mail_from 		= $_POST['email'];
   $mail_replay 	= $_POST['email'];
-  $mail_to    	= 'mamboreserve@gmail.com';
+  // $mail_to    	= 'mamboreserve@gmail.com';
+  $mail_to    	= 'jucajigue@gmail.com';
   $subject 		= '*** Question from Website ****';
   $username 		= $_POST['username'];
   $phone 			= $_POST['phone'];
@@ -46,15 +48,21 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   //Set the body
   $mail->Body = $mail_body;
   if ( !$mail->send() ) {
+    // Process POST data
+
     // $serialized_data = '{"type":"danger", "message":"Contact form failed. Please send again later!"}';
     // echo $serialized_data;
-    echo "<br><p class='text-warning'>Mailer Error: " . $mail->ErrorInfo.'</p>';
+    // echo "<br><p class='text-warning'>Mailer Error: " . $mail->ErrorInfo.'</p>';
+    $_SESSION['form_contact_state'] = "Mailer Error: " . $mail->ErrorInfo;
   } else {
     // $serialized_data = '{"type":"success", "message":"Thank you for reaching out, we will get back to you soon!"}';
     //  $serialized_data = '{"type":"success", "message":"Thank you for contacting us! We try to respond within 24 hours."}';
     // echo $serialized_data;
-    echo "<br><p class='text-success'>Mail Sent Successfully. Thank you!</p>";
+    // echo "<br><p class='text-success'>Mail Sent Successfully. Thank you!</p>";
+    $_SESSION['form_contact_state'] = "Mail Sent Successfully. Thank you!";
   }
+
+  header("Location: contact.php");
 }
 
 ?>
