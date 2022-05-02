@@ -43,6 +43,18 @@
 
                       <div class="col-md-4 col-sm-12 col-xs-12">
                         <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
+                          <div class="blog-featured-img"><img src="assets/images/event/mamboitalian-mothers-day-2022-events.jpg" alt="mambo mothers day 2022" class="img img-responsive"></div>
+                          <div class="blog-content">
+                            <div class="blog-date"><span class="day">8th</span><span class="month">May</span></div>
+                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Mother's Day 2022</a></h3>
+                            <p class="blog-description">Brunch for Mom!</p>
+                            <div class="blog-readmore"><a href="reservation.html" class="swin-transition">Reserve <i class="fa fa-angle-double-right"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
                           <div class="blog-featured-img"><img src="assets/images/event/event-venetian-carnival.jpeg" alt="mambo venetian carnival" class="img img-responsive"></div>
                           <div class="blog-content">
                             <div class="blog-date"><span class="day">25th</span><span class="month">Feb</span></div>

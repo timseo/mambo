@@ -27,7 +27,7 @@
 
       <div class="page-container">
         <div class="top-header top-bg-parallax">
-          <div data-parallax="scroll" data-image-src="assets/images/slider/mambo-slider-new.jpeg" class="slides parallax-window">
+          <div data-parallax="scroll" data-image-src="assets/images/slider/mamboitalian-mothers-day-2022.jpg" class="slides parallax-window">
             <div class="slide-content slide-layout-02">
               <div class="container">
                 <div class="slide-content-inner">
@@ -38,8 +38,8 @@
                   <!-- <img src="assets/images/slider/slider2-icon.png" data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="500" alt="mambo" class="slide-icon img img-responsive animated"> -->
 
 
-                  <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">Venetian Carnival</h3>
-                  <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-sub-title text animated">Live Music & Best Costume Prizes<br> Feb 25 - 27</br></p>
+                  <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">Mother's Day</h3>
+                  <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-sub-title text animated">2022</br></p>
                   <br />
                   <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1500" class="slide-sub-title animated">
 
@@ -49,7 +49,7 @@
                       </span> -->
 
                     <span class="text">
-                      <span><a href="/reservation.php" class="slider-link">RESERVE TODAY</a></span>
+                      <span><a href="/reservation.php" class="slider-link">RESERVE</a></span>
                     </span>
 
                     <!-- <span class="text">
@@ -138,7 +138,7 @@
 
                 <div class="col-md-4 col-sm-12">
                   <a href="/reservation.php">
-                    <img src="assets/images/mambo-valentines-specials-2022-2.jpg" alt="mambo italian street valentines day reservations atlanta" class="img img-responsive wow zoomIn">
+                    <img src="assets/images/mamboitalian-mothers-day-2022-email.jpg" alt="mambo italian street mothers day reservations atlanta" class="img img-responsive wow zoomIn">
                   </a>
                 </div>
 
