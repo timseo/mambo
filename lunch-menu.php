@@ -103,7 +103,25 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    8.95
+                                    10.95
+                                  </span>
+                                </div>
+                              </div>
+                              
+                              <div class="item product-01">
+                                <div class="item-left">
+                                  <h5 class="title">
+                                    garlic cheese
+                                  </h5>
+                                  <div class="des">
+                                    italian bread, fresh garlic, mozzarella, romano, marinara
+                                  </div>
+                                </div>
+                                <div class="item-right"><span class="price woocommerce-Price-amount amount">
+                                    <span class="price-symbol">
+                                      $
+                                    </span>
+                                    9.95
                                   </span>
                                 </div>
                               </div>
@@ -123,7 +141,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    5.95
+                                    6.95
                                   </span>
                                 </div>
                               </div>
@@ -141,7 +159,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    10.95
+                                    12.95
                                   </span>
                                 </div>
                               </div>
@@ -159,7 +177,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    10.25
+                                    10.95
                                   </span>
                                 </div>
                               </div>
@@ -213,7 +231,25 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    7.95
+                                    8.95
+                                  </span>
+                                </div>
+                              </div>
+                              
+                              <div class="item product-01">
+                                <div class="item-left">
+                                  <h5 class="title">
+                                    italian hot buffalochicken wings
+                                  </h5>
+                                  <div class="des">
+                                    8 wings, calabrian chili, carrots, celery, blue cheese, add fries +$5
+                                  </div>
+                                </div>
+                                <div class="item-right"><span class="price woocommerce-Price-amount amount">
+                                    <span class="price-symbol">
+                                      $
+                                    </span>
+                                    13.95
                                   </span>
                                 </div>
                               </div>
@@ -254,7 +290,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    5.95 bowl
+                                    6.95 bowl
                                   </span>
                                 </div>
                               </div>
@@ -278,7 +314,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    5.95 bowl
+                                    6.95 bowl
                                   </span>
                                 </div>
                               </div>
@@ -302,7 +338,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    5.95 bowl
+                                    6.95 bowl
                                   </span>
                                 </div>
                               </div>
@@ -339,7 +375,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    5.95
+                                    6.95
                                   </span>
                                 </div>
                               </div>
@@ -357,7 +393,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    7.95
+                                    9.95
                                   </span>
                                 </div>
                               </div>
@@ -375,7 +411,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    7.95
+                                    9.95
                                   </span>
                                 </div>
                               </div>
@@ -393,7 +429,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    8.95
+                                    9.95
                                   </span>
                                 </div>
                               </div>
@@ -411,7 +447,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    8.95
+                                    9.95
                                   </span>
                                 </div>
                               </div>
@@ -429,7 +465,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    8.95
+                                    11.95
                                   </span>
                                 </div>
                               </div>
@@ -447,7 +483,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    7.95
+                                    10.95
                                   </span>
                                 </div>
                               </div>
@@ -465,7 +501,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    8.95
+                                    10.95
                                   </span>
                                 </div>
                               </div>
@@ -483,7 +519,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    8.95
+                                    11.95
                                   </span>
                                 </div>
                               </div>
@@ -491,7 +527,7 @@
                               <div class="item product-01">
                                 <div class="item-left">
                                   <h5 class="title">
-                                    italiano
+                                  chopped italiano
                                   </h5>
                                   <div class="des">
                                     chopped romaine, pepperoni, salami, artichoke, mozzarella, olive
@@ -501,7 +537,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    12.00
+                                    10.95
                                   </span>
                                 </div>
                               </div>
@@ -519,7 +555,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    14.00
+                                    12.95
                                   </span>
                                 </div>
                               </div>
@@ -555,7 +591,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    2.95
+                                    3.95
                                   </span>
                                 </div>
                               </div>
@@ -573,7 +609,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    3.95
+                                    4.95
                                   </span>
                                 </div>
                               </div>
@@ -591,7 +627,7 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    4.95
+                                    5.95
                                   </span>
                                 </div>
                               </div>
@@ -609,7 +645,25 @@
                                     <span class="price-symbol">
                                       $
                                     </span>
-                                    2.95
+                                    3.95
+                                  </span>
+                                </div>
+                              </div>
+                              
+                              <div class="item product-01">
+                                <div class="item-left">
+                                  <h5 class="title">
+                                    add shrimp fritti
+                                  </h5>
+                                  <div class="des">
+
+                                  </div>
+                                </div>
+                                <div class="item-right"><span class="price woocommerce-Price-amount amount">
+                                    <span class="price-symbol">
+                                      $
+                                    </span>
+                                    4.95
                                   </span>
                                 </div>
                               </div>
@@ -657,7 +711,7 @@
                                 <span class="price-symbol">
                                   $
                                 </span>
-                                9.95
+                                11.95
                               </span>
                             </div>
                           </div>
@@ -675,7 +729,7 @@
                                 <span class="price-symbol">
                                   $
                                 </span>
-                                9.95
+                                11.95
                               </span>
                             </div>
                           </div>
@@ -693,7 +747,7 @@
                                 <span class="price-symbol">
                                   $
                                 </span>
-                                9.95
+                                11.95
                               </span>
                             </div>
                           </div>
@@ -711,7 +765,7 @@
                                 <span class="price-symbol">
                                   $
                                 </span>
-                                9.95
+                                11.95
                               </span>
                             </div>
                           </div>
@@ -729,7 +783,7 @@
                                 <span class="price-symbol">
                                   $
                                 </span>
-                                9.95
+                                11.95
                               </span>
                             </div>
                           </div>
@@ -751,7 +805,7 @@
                 <div class="col-md-12">
                   <div class="swin-sc swin-sc-title style-3">
                     <p class="title"><span>pizza rossa</span></p>
-                    <div class="des">San Marzano tomato base NO SUBSTITUTIONS</div>
+                    <div class="des">San Marzano tomato base NO SUBSTITUTIONS NO MODIFICATIONS</div>
                   </div>
                   <div class="swin-sc swin-sc-product products-01 style-02 woocommerce">
                     <div class="row">
@@ -773,7 +827,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  8.95
+                                  9.95
                                 </span>
                               </div>
                             </div>
@@ -792,7 +846,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  10.95
+                                  11.95
                                 </span>
                               </div>
                             </div>
@@ -830,7 +884,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  9.95
+                                  12.95
                                 </span>
                               </div>
                             </div>
@@ -868,7 +922,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  10.95
+                                  11.95
                                 </span>
                               </div>
                             </div>
@@ -887,7 +941,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  10.95
+                                  11.95
                                 </span>
                               </div>
                             </div>
@@ -953,7 +1007,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  10.95
+                                  12.95
                                 </span>
                               </div>
                             </div>
@@ -972,7 +1026,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  13.95
+                                  14.95
                                 </span>
                               </div>
                             </div>
@@ -1073,7 +1127,7 @@
                 <div class="col-md-12">
                   <div class="swin-sc swin-sc-title style-3">
                     <p class="title"><span>pizza bianca</span></p>
-                    <div class="des">San Marzano tomato base NO SUBSTITUTIONS</div>
+                    <div class="des">San Marzano tomato base NO SUBSTITUTIONS NO MODIFICATIONS</div>
                   </div>
                   <div class="swin-sc swin-sc-product products-01 style-02 woocommerce">
                     <div class="row">
@@ -1095,7 +1149,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  8.95
+                                  9.95
                                 </span>
                               </div>
                             </div>
@@ -1114,7 +1168,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  8.95
+                                  10.95
                                 </span>
                               </div>
                             </div>
@@ -1161,7 +1215,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  8.95
+                                  9.95
                                 </span>
                               </div>
                             </div>
@@ -1199,7 +1253,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  8.95
+                                  10.95
                                 </span>
                               </div>
                             </div>
@@ -1248,7 +1302,7 @@
                                   <span class="price-symbol">
                                     $
                                   </span>
-                                  8.95
+                                  9.95
                                 </span>
                               </div>
                             </div>
@@ -1392,13 +1446,13 @@
                                     spaghetti al pomodoro
                                   </h5>
                                   <div class="des">
-                                    neopolitan pomadoro sauce add meat balls $2, bolognese $3
+                                    neopolitan pomadoro sauce add meat balls $2, bolognese $3, italian sausage $2
                                   </div>
                                 </div>
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    7.95
+                                    9.95
                                   </span>
                                 </div>
                               </div>
@@ -1414,7 +1468,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    12.95
                                   </span>
                                 </div>
                               </div>
@@ -1430,7 +1484,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    8.95
+                                    12.95
                                   </span>
                                 </div>
                               </div>
@@ -1446,37 +1500,11 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    8.95
+                                    10.95
                                   </span>
                                 </div>
                               </div>
-                              <div class="item product-01">
-                                <div class="item-left">
-                                  <h5 class="title">
-                                    fettuccine carbonara
-                                  </h5>
-                                  <div class="des">
-                                    panchetta, green pea, tomato in a cream sauce
-                                  </div>
-                                </div>
-                                <div class="item-right">
-                                  <span class="price woocommerce-Price-amount amount">
-                                    <span class="price-symbol">$</span>
-                                    9.95
-                                  </span>
-                                </div>
-                              </div>
-
-
-                            </div>
-
-
-                          </div>
-
-                          <div class="col-md-6 col-sm-12">
-                            <div class="products">
-
-
+                              
                               <div class="item product-01">
                                 <div class="item-left">
                                   <h5 class="title">
@@ -1489,11 +1517,18 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    10.95
                                   </span>
                                 </div>
                               </div>
 
+                            </div>
+
+
+                          </div>
+
+                          <div class="col-md-6 col-sm-12">
+                            <div class="products">
                               <div class="item product-01">
                                 <div class="item-left">
                                   <h5 class="title">
@@ -1506,7 +1541,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    11.95
                                   </span>
                                 </div>
                               </div>
@@ -1523,7 +1558,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    8.95
+                                    11.95
                                   </span>
                                 </div>
                               </div>
@@ -1540,7 +1575,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    8.95
+                                    12.95
                                   </span>
                                 </div>
                               </div>
@@ -1557,7 +1592,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    12.95
                                   </span>
                                 </div>
                               </div>
@@ -1574,7 +1609,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    12.95
                                   </span>
                                 </div>
                               </div>
@@ -1590,7 +1625,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    11.95
                                   </span>
                                 </div>
                               </div>
@@ -1628,7 +1663,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    8.95
+                                    9.95
                                   </span>
                                 </div>
                               </div>
@@ -1644,7 +1679,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    10.95
                                   </span>
                                 </div>
                               </div>
@@ -1660,7 +1695,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    10.95
                                   </span>
                                 </div>
                               </div>
@@ -1676,7 +1711,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    10.95
                                   </span>
                                 </div>
                               </div>
@@ -1702,7 +1737,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    10.95
                                   </span>
                                 </div>
                               </div>
@@ -1718,7 +1753,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    10.95
                                   </span>
                                 </div>
                               </div>
@@ -1734,7 +1769,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    8.95
+                                    9.95
                                   </span>
                                 </div>
                               </div>
@@ -1750,7 +1785,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    8.95
+                                    9.95
                                   </span>
                                 </div>
                               </div>
@@ -1766,7 +1801,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    9.95
+                                    10.95
                                   </span>
                                 </div>
                               </div>
@@ -1786,6 +1821,8 @@
 
                             <div class="swin-sc swin-sc-title style-3">
                               <p class="title"><span>secondi</span></p>
+                              <div class="des">Substitute mixed vegetables $3.95</div>
+                              <div class="des">Substitute asparagus or spinach $4.95</div>
                             </div>
 
                             <div class="products">
@@ -1803,7 +1840,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    12.95
+                                    13.95
                                   </span>
                                 </div>
                               </div>
@@ -1819,7 +1856,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    14.95
+                                    15.95
                                   </span>
                                 </div>
                               </div>
@@ -1835,7 +1872,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    15.95
+                                    16.95
                                   </span>
                                 </div>
                               </div>
@@ -1851,7 +1888,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    14.95
+                                    15.95
                                   </span>
                                 </div>
                               </div>
@@ -1868,7 +1905,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    12.95
+                                    13.95
                                   </span>
                                 </div>
                               </div>
@@ -1895,7 +1932,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    12.95
+                                    13.95
                                   </span>
                                 </div>
                               </div>
@@ -1911,7 +1948,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    14.95
+                                    15.95
                                   </span>
                                 </div>
                               </div>
@@ -1927,7 +1964,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    15.95
+                                    11.95
                                   </span>
                                 </div>
                               </div>
@@ -1943,7 +1980,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    12.95
+                                    13.95
                                   </span>
                                 </div>
                               </div>
@@ -1959,7 +1996,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    15.95
+                                    16.95
                                   </span>
                                 </div>
                               </div>
@@ -1991,7 +2028,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    3.95
+                                    5.00 ea
                                   </span>
                                 </div>
                               </div>
@@ -2007,7 +2044,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    3.95
+                                    5.00 ea
                                   </span>
                                 </div>
                               </div>
@@ -2023,7 +2060,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    3.95
+                                    5.00 ea
                                   </span>
                                 </div>
                               </div>
@@ -2052,7 +2089,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    3.95
+                                    5.00 ea
                                   </span>
                                 </div>
                               </div>
@@ -2069,7 +2106,7 @@
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
                                     <span class="price-symbol">$</span>
-                                    3.95
+                                    5.00 ea
                                   </span>
                                 </div>
                               </div>
@@ -2174,13 +2211,13 @@
                                     gelati
                                   </h5>
                                   <div class="des">
-                                    singolo, mezzo $5 or pint $12
+                                    singolo, mezzo or pint
                                   </div>
                                 </div>
                                 <div class="item-right">
                                   <span class="price woocommerce-Price-amount amount">
-                                    <span class="price-symbol">$</span>
-                                    3.00
+                                    <span class="price-symbol"></span>
+                                    3/5/12
                                   </span>
                                 </div>
                               </div>
