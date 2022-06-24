@@ -27,7 +27,7 @@
 
       <div class="page-container">
         <div class="top-header top-bg-parallax">
-          <div data-parallax="scroll" data-image-src="assets/images/slider/maambo-slider.jpg" class="slides parallax-window">
+          <div data-parallax="scroll" data-image-src="assets/images/slider/mambo-slider.jpg" class="slides parallax-window">
             <div class="slide-content slide-layout-02">
               <div class="container">
                 <div class="slide-content-inner">
@@ -38,8 +38,8 @@
                   <!-- <img src="assets/images/slider/slider2-icon.png" data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="500" alt="mambo" class="slide-icon img img-responsive animated"> -->
 
 
-                  <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">Elevated</h3>
-                  <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-sub-title text animated">Italian Dining</br></p>
+                  <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">Live Music & Patio Dining</h3>
+                  <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-sub-title text animated">Summertime Reserve Today!</br></p>
                   <br />
                   <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1500" class="slide-sub-title animated">
 
@@ -119,35 +119,80 @@
               </div>
               <br>
               <br>
-
               <div class="row">
-
-                <div class="col-md-4 col-sm-12">
-                  <!-- <a href="https://mamboitalianstreet.smartonlineorder.com/">
-                      <img src="assets/images/mambo-email-easter-2020.jpg" alt="mambo easter sunday atlanta" class="img img-responsive wow zoomIn">
-                    </a> -->
-
-
+                <div class="col-md-12">
+                  <div class="swin-sc swin-sc-title">
+                    <p class="top-title"><span>Monthly at Mambo</span></p>
+                    <h3 class="title">Events & Specials</h3>
+                  </div>
+                  <div class="swin-sc swin-sc-blog-grid"></div>
                 </div>
+                <div class="col-md-12">
+                  <div class="swin-sc swin-sc-blog-grid">
+                    <div class="row">
 
-                <!-- <div class="col-md-4 col-sm-12">
-                  <a href="assets/images/blog/mambo-weekly-special-2019.pdf">
-                    <img src="assets/images/mambo-hp-weekly-specials.jpg" alt="mambo italian weekly specials atlanta" class="img img-responsive wow zoomIn">
-                  </a>
-                </div> -->
 
-                <div class="col-md-4 col-sm-12">
-                  <a href="/reservation.php">
-                    <img src="assets/images/mamboitalian-mothers-day-2022-email.jpg" alt="mambo italian street mothers day reservations atlanta" class="img img-responsive wow zoomIn">
-                  </a>
+
+
+                      <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div data-wow-delay="0.5s" class="blog-item swin-transition item wow fadeInUpShort">
+
+                          <div class="blog-featured-img"><img src="assets/images/blog/mambo-brunch.jpg" alt="mambo" class="img img-responsive"></div>
+                          <div class="blog-content">
+                            <div class="blog-date"><span class="day">Sat</span><span class="month">& sun</span></div>
+                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Saturday & Sunday Brunch</a></h3>
+                            <p class="blog-description">$14 Bottomless Mimosas Brunch Saturday's & Sunday's with Live Music from 11am - 3pm. Full Italian style brunch. Bottomless Mimosas, Bottomless Bellinis, Bottomless Bloody Mary's</p>
+                            <div class="blog-readmore"><a href="assets/images/blog/mambo-brunch-full.jpg" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- <div class="col-md-4 col-sm-6 col-xs-12">
+                          <div data-wow-delay="0s" class="blog-item swin-transition item wow fadeInUpShort">
+
+                            <div class="blog-featured-img"><img src="assets/images/mambo-live-music-flyer.jpg" alt="mambo live music" class="img img-responsive"></div>
+                            <div class="blog-content">
+                              <div class="blog-date"><span class="day">every</span><span class="month">week</span></div>
+                              <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Live Music</a></h3>
+                              <p class="blog-description">Every Wednesday, Friday, Saturday & Sunday live music by Adam and Charly</p>
+                              <div class="blog-readmore"><a href="assets/images/mambo-live-music-full.jpg" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
+                            </div>
+                          </div>
+                        </div> -->
+
+                      <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div data-wow-delay="0s" class="blog-item swin-transition item wow fadeInUpShort">
+
+                          <div class="blog-featured-img"><img src="assets/images/blog/mambo-saturdays.jpg" alt="mambo saturday jazz" class="img img-responsive"></div>
+                          <div class="blog-content">
+                            <div class="blog-date"><span class="day">every</span><span class="month">sat</span></div>
+                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Sinatra Saturday's</a></h3>
+                            <p class="blog-description">Join us every Saturday night featuring LIVE Frank Sinatra music! Daniel's Over Ice $7 Frank's Boulevardier $7 A Toast To Frank "3-2-1" $7</p>
+                            <div class="blog-readmore"><a href="assets/images/blog/mambo-saturdays-full.jpg" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
+
+                          <div class="blog-featured-img"><img src="assets/images/blog/mambo-weekly.jpg" alt="mambo" class="img img-responsive"></div>
+                          <div class="blog-content">
+                            <div class="blog-date"><span class="day">every</span><span class="month">Week</span></div>
+                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Weekly Happenings</a></h3>
+                            <p class="blog-description">Specials every single day of the week. Monday's Beer Specials. Tuesdays Martinis, Wine Wednesday, Ladies Night on Thursdays.</p>
+                            <div class="blog-readmore"><a href="assets/images/mambo-weekly-specials-june-2022.jpg" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+
+
+
+                    </div>
+                  </div>
                 </div>
-
-                <div class="col-md-4 col-sm-12">
-                  <!-- <img src="assets/images/valentines-mambo-3-events.jpg" alt="mambo atlantas best valentines specials" class="img img-responsive wow zoomIn"> -->
-
-                </div>
-
               </div>
+
               <div class="row">
                 <div class="col-md-12 col-sm-12">
                   <div class="swin-sc swin-sc-title style-4 margin-bottom-20 margin-top-50">
@@ -328,130 +373,6 @@
             </div>
           </section>
 
-          <section class="section-reservation-form padding-top-100 padding-bottom-100">
-            <div class="container">
-              <div class="section-content">
-                <div class="swin-sc swin-sc-title style-2">
-                  <h3 class="title"><span>Make a Reservation</span></h3>
-                </div>
-                <div class="reservation-form">
-                  <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                      <p class="reservation-form-title text-center">You can call us directly at <span class="text-default"> (770) 485-4026</span></p>
-                    </div>
-                  </div>
-                  <div class="swin-sc swin-sc-contact-form light mtl">
-                    <form method="post" action="reservation.php" id="iForm">
-                      <div class="form-group">
-                        <div class="input-group">
-                          <div class="input-group-addon"><i class="fa fa-user"></i></div>
-                          <input type="text" placeholder="Name" class="form-control" name="username" required="true">
-                        </div>
-                        <div class="input-group">
-                          <div class="input-group-addon"><i class="fa fa-envelope"></i></div>
-                          <input type="email" placeholder="Email" class="form-control" name="email" required="true">
-                        </div>
-                      </div>
-                      <div class="form-group">
-                        <div class="input-group">
-                          <div class="input-group-addon">
-                            <div class="fa fa-phone"></div>
-                          </div>
-                          <input type="text" placeholder="Phone" class="form-control" name="phone" required="true">
-                        </div>
-                        <div class="input-group">
-                          <div class="input-group-addon"><i class="fa fa-male"></i></div>
-                          <select type="text" placeholder="People" class="form-control" name="people">
-                            <option>1 person</option>
-                            <option>2 People</option>
-                            <option>3 People</option>
-                            <option>4 People</option>
-                            <option>5 People</option>
-                            <option>6 People</option>
-                            <option>7 People</option>
-                            <option>8 People</option>
-                            <option>9 People</option>
-                            <option>10 People</option>
-                          </select>
-                        </div>
-                      </div>
-                      <div class="form-group">
-                        <div class="input-group">
-                          <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
-                          <input type="text" placeholder="Date" class="form-control datepicker" name="date" required="true">
-                        </div>
-                        <div class="input-group">
-                          <div class="input-group-addon">
-                            <div class="fa fa-clock-o"></div>
-                          </div>
-                          <select type="text" placeholder="Time" class="form-control" name="time">
-
-                            <option>11:00 AM</option>
-                            <option>11:15 AM</option>
-                            <option>11:30 AM</option>
-                            <option>11:45 AM</option>
-                            <option>12:00 AM</option>
-                            <option>12:15 AM</option>
-                            <option>12:30 AM</option>
-                            <option>12:45 AM</option>
-                            <option>1:00 PM</option>
-                            <option>1:15 PM</option>
-                            <option>1:30 PM</option>
-                            <option>1:45 PM</option>
-                            <option>2:00 PM</option>
-                            <option>2:15 PM</option>
-                            <option>2:30 PM</option>
-                            <option>2:45 PM</option>
-                            <option>3:00 PM</option>
-                            <option>3:15 PM</option>
-                            <option>3:30 PM</option>
-                            <option>3:45 PM</option>
-                            <option>4:00 PM</option>
-                            <option>4:15 PM</option>
-                            <option>4:30 PM</option>
-                            <option>4:45 PM</option>
-                            <option>5:00 PM</option>
-                            <option>5:15 PM</option>
-                            <option>5:30 PM</option>
-                            <option>5:45 PM</option>
-                            <option>6:00 PM</option>
-                            <option>6:15 PM</option>
-                            <option>6:30 PM</option>
-                            <option>6:45 PM</option>
-                            <option>7:00 PM</option>
-                            <option>7:15 PM</option>
-                            <option>7:30 PM</option>
-                            <option>7:45 PM</option>
-                            <option>8:00 PM</option>
-                            <option>8:15 PM</option>
-                            <option>8:30 PM</option>
-                            <option>8:45 PM</option>
-                            <option>9:00 PM</option>
-                            <option>9:15 PM</option>
-                            <option>9:30 PM</option>
-                            <option>9:45 PM</option>
-                            <option>10:00 PM</option>
-                            <option>10:15 PM</option>
-                            <option>10:30 PM</option>
-                          </select>
-                        </div>
-                      </div>
-                      <div class="form-group">
-                        <textarea class="form-control" name="message" required="true"></textarea>
-                      </div>
-                      <div class="form-group">
-                        <div class="swin-btn-wrap swin-btn-wrap-center center"><button type="submit" class="swin-btn center form-submit"> <span>Book Table</span></button></div>
-                      </div>
-                    </form>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-          </section>
-
-
-
           <section data-bottom-top="background-position: 50% 50px;" data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -150px;" class="testimonial-section-01 padding-top-100 padding-bottom-100">
             <div class="container">
               <div class="row">
@@ -623,85 +544,128 @@
             </div>
           </section>
 
-          <section class="blog-section padding-top-100 padding-bottom-100">
+
+          <section class="section-reservation-form padding-top-100 padding-bottom-100">
             <div class="container">
-              <div class="row">
-                <div class="col-md-12">
-                  <div class="swin-sc swin-sc-title">
-                    <p class="top-title"><span>Monthly at Mambo</span></p>
-                    <h3 class="title">Events & Specials</h3>
-                  </div>
-                  <div class="swin-sc swin-sc-blog-grid"></div>
+              <div class="section-content">
+                <div class="swin-sc swin-sc-title style-2">
+                  <h3 class="title"><span>Make a Reservation</span></h3>
                 </div>
-                <div class="col-md-12">
-                  <div class="swin-sc swin-sc-blog-grid">
-                    <div class="row">
-
-
-
-
-                      <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div data-wow-delay="0.5s" class="blog-item swin-transition item wow fadeInUpShort">
-
-                          <div class="blog-featured-img"><img src="assets/images/blog/mambo-brunch.jpg" alt="mambo" class="img img-responsive"></div>
-                          <div class="blog-content">
-                            <div class="blog-date"><span class="day">Sat</span><span class="month">& sun</span></div>
-                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Saturday & Sunday Brunch</a></h3>
-                            <p class="blog-description">$14 Bottomless Mimosas Brunch Saturday's & Sunday's with Live Music from 11am - 3pm. Full Italian style brunch. Bottomless Mimosas, Bottomless Bellinis, Bottomless Bloody Mary's</p>
-                            <div class="blog-readmore"><a href="assets/images/blog/mambo-brunch-full.jpg" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
-                          </div>
-                        </div>
-                      </div>
-
-                      <!-- <div class="col-md-4 col-sm-6 col-xs-12">
-                          <div data-wow-delay="0s" class="blog-item swin-transition item wow fadeInUpShort">
-
-                            <div class="blog-featured-img"><img src="assets/images/mambo-live-music-flyer.jpg" alt="mambo live music" class="img img-responsive"></div>
-                            <div class="blog-content">
-                              <div class="blog-date"><span class="day">every</span><span class="month">week</span></div>
-                              <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Live Music</a></h3>
-                              <p class="blog-description">Every Wednesday, Friday, Saturday & Sunday live music by Adam and Charly</p>
-                              <div class="blog-readmore"><a href="assets/images/mambo-live-music-full.jpg" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
-                            </div>
-                          </div>
-                        </div> -->
-
-                      <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div data-wow-delay="0s" class="blog-item swin-transition item wow fadeInUpShort">
-
-                          <div class="blog-featured-img"><img src="assets/images/blog/mambo-saturdays.jpg" alt="mambo saturday jazz" class="img img-responsive"></div>
-                          <div class="blog-content">
-                            <div class="blog-date"><span class="day">every</span><span class="month">sat</span></div>
-                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Sinatra Saturday's</a></h3>
-                            <p class="blog-description">Join us every Saturday night featuring LIVE Frank Sinatra music! Daniel's Over Ice $7 Frank's Boulevardier $7 A Toast To Frank "3-2-1" $7</p>
-                            <div class="blog-readmore"><a href="assets/images/blog/mambo-saturdays-full.jpg" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="col-md-4 col-sm-12 col-xs-12">
-                        <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
-
-                          <div class="blog-featured-img"><img src="assets/images/blog/mambo-weekly.jpg" alt="mambo" class="img img-responsive"></div>
-                          <div class="blog-content">
-                            <div class="blog-date"><span class="day">every</span><span class="month">Week</span></div>
-                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Weekly Happenings</a></h3>
-                            <p class="blog-description">Specials every single day of the week. Monday's Beer Specials. Tuesdays Martinis, Wine Wednesday, Ladies Night on Thursdays.</p>
-                            <div class="blog-readmore"><a href="assets/images/mambo-weekly-specials-june-2022.jpg" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
-                          </div>
-                        </div>
-                      </div>
-
-
-
+                <div class="reservation-form">
+                  <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                      <p class="reservation-form-title text-center">You can call us directly at <span class="text-default"> (770) 485-4026</span></p>
                     </div>
                   </div>
+                  <div class="swin-sc swin-sc-contact-form light mtl">
+                    <form method="post" action="reservation.php" id="iForm">
+                      <div class="form-group">
+                        <div class="input-group">
+                          <div class="input-group-addon"><i class="fa fa-user"></i></div>
+                          <input type="text" placeholder="Name" class="form-control" name="username" required="true">
+                        </div>
+                        <div class="input-group">
+                          <div class="input-group-addon"><i class="fa fa-envelope"></i></div>
+                          <input type="email" placeholder="Email" class="form-control" name="email" required="true">
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <div class="input-group">
+                          <div class="input-group-addon">
+                            <div class="fa fa-phone"></div>
+                          </div>
+                          <input type="text" placeholder="Phone" class="form-control" name="phone" required="true">
+                        </div>
+                        <div class="input-group">
+                          <div class="input-group-addon"><i class="fa fa-male"></i></div>
+                          <select type="text" placeholder="People" class="form-control" name="people">
+                            <option>1 person</option>
+                            <option>2 People</option>
+                            <option>3 People</option>
+                            <option>4 People</option>
+                            <option>5 People</option>
+                            <option>6 People</option>
+                            <option>7 People</option>
+                            <option>8 People</option>
+                            <option>9 People</option>
+                            <option>10 People</option>
+                          </select>
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <div class="input-group">
+                          <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
+                          <input type="text" placeholder="Date" class="form-control datepicker" name="date" required="true">
+                        </div>
+                        <div class="input-group">
+                          <div class="input-group-addon">
+                            <div class="fa fa-clock-o"></div>
+                          </div>
+                          <select type="text" placeholder="Time" class="form-control" name="time">
+
+                            <option>11:00 AM</option>
+                            <option>11:15 AM</option>
+                            <option>11:30 AM</option>
+                            <option>11:45 AM</option>
+                            <option>12:00 AM</option>
+                            <option>12:15 AM</option>
+                            <option>12:30 AM</option>
+                            <option>12:45 AM</option>
+                            <option>1:00 PM</option>
+                            <option>1:15 PM</option>
+                            <option>1:30 PM</option>
+                            <option>1:45 PM</option>
+                            <option>2:00 PM</option>
+                            <option>2:15 PM</option>
+                            <option>2:30 PM</option>
+                            <option>2:45 PM</option>
+                            <option>3:00 PM</option>
+                            <option>3:15 PM</option>
+                            <option>3:30 PM</option>
+                            <option>3:45 PM</option>
+                            <option>4:00 PM</option>
+                            <option>4:15 PM</option>
+                            <option>4:30 PM</option>
+                            <option>4:45 PM</option>
+                            <option>5:00 PM</option>
+                            <option>5:15 PM</option>
+                            <option>5:30 PM</option>
+                            <option>5:45 PM</option>
+                            <option>6:00 PM</option>
+                            <option>6:15 PM</option>
+                            <option>6:30 PM</option>
+                            <option>6:45 PM</option>
+                            <option>7:00 PM</option>
+                            <option>7:15 PM</option>
+                            <option>7:30 PM</option>
+                            <option>7:45 PM</option>
+                            <option>8:00 PM</option>
+                            <option>8:15 PM</option>
+                            <option>8:30 PM</option>
+                            <option>8:45 PM</option>
+                            <option>9:00 PM</option>
+                            <option>9:15 PM</option>
+                            <option>9:30 PM</option>
+                            <option>9:45 PM</option>
+                            <option>10:00 PM</option>
+                            <option>10:15 PM</option>
+                            <option>10:30 PM</option>
+                          </select>
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <textarea class="form-control" name="message" required="true"></textarea>
+                      </div>
+                      <div class="form-group">
+                        <div class="swin-btn-wrap swin-btn-wrap-center center"><button type="submit" class="swin-btn center form-submit"> <span>Book Table</span></button></div>
+                      </div>
+                    </form>
+                  </div>
                 </div>
+
               </div>
             </div>
           </section>
-
-
         </div>
       </div>
 
