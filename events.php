@@ -187,18 +187,6 @@
                         </div>
                       </div>
 
-                      <div class="col-md-4 col-sm-12 col-xs-12">
-                        <div data-wow-delay="1s" class="blog-item swin-transition item wow fadeInUpShort">
-                          <div class="blog-featured-img"><img src="assets/images/blog/mambo-weekly.jpg" alt="fooday" class="img img-responsive"></div>
-                          <div class="blog-content">
-                            <div class="blog-date"><span class="day">every</span><span class="month">Week</span></div>
-                            <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Weekly Happenings</a></h3>
-                            <p class="blog-description">Specials every single day of the week. Monday's Beer Specials. Tuesdays Martinis, Wine Wednesday, Ladies Night on Thursdays.</p>
-                            <div class="blog-readmore"><a href="assets/images/blog/mambo-weekly-special-2019.pdf" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
-                          </div>
-                        </div>
-                      </div>
-
                       <div class="col-md-4 col-sm-6 col-xs-12">
                         <div data-wow-delay="0.5s" class="blog-item swin-transition item wow fadeInUpShort">
                           <div class="blog-featured-img"><img src="assets/images/blog/mambo-brunch.jpg" alt="fooday" class="img img-responsive"></div>
