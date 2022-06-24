@@ -27,7 +27,7 @@
 
       <div class="page-container">
         <div class="top-header top-bg-parallax">
-          <div data-parallax="scroll" data-image-src="assets/images/slider/mamboitalian-mothers-day-2022.jpg" class="slides parallax-window">
+          <div data-parallax="scroll" data-image-src="assets/images/slider/maambo-slider.jpg" class="slides parallax-window">
             <div class="slide-content slide-layout-02">
               <div class="container">
                 <div class="slide-content-inner">
@@ -38,8 +38,8 @@
                   <!-- <img src="assets/images/slider/slider2-icon.png" data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="500" alt="mambo" class="slide-icon img img-responsive animated"> -->
 
 
-                  <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">Mother's Day</h3>
-                  <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-sub-title text animated">2022</br></p>
+                  <h3 data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-title animated">Elevated</h3>
+                  <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1000" class="slide-sub-title text animated">Italian Dining</br></p>
                   <br />
                   <p data-ani-in="fadeInUp" data-ani-out="fadeOutDown" data-ani-delay="1500" class="slide-sub-title animated">
 
@@ -687,7 +687,7 @@
                             <div class="blog-date"><span class="day">every</span><span class="month">Week</span></div>
                             <h3 class="blog-title"><a href="javascript:void(0)" class="swin-transition">Weekly Happenings</a></h3>
                             <p class="blog-description">Specials every single day of the week. Monday's Beer Specials. Tuesdays Martinis, Wine Wednesday, Ladies Night on Thursdays.</p>
-                            <div class="blog-readmore"><a href="assets/images/blog/mambo-weekly-special-2019.pdf" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
+                            <div class="blog-readmore"><a href="assets/images/mambo-weekly-specials-june-2022.jpg" class="swin-transition">More <i class="fa fa-angle-double-right"></i></a></div>
                           </div>
                         </div>
                       </div>
